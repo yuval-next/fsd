@@ -1,0 +1,452 @@
+[
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sdfghjkl",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sdfghjkl",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sdfghjkl",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sdfghjkl",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sdfghjkl",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sdfghjkl",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sdfghjkl",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sdfghjkl",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sdfghjkl",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sdfghjkl",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sdfghjkl",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sdfghjkl",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sdfghjkl",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sdfghjkl",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sdfghjkl",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sadsa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sadsa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sadsa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sadsa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sadsa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sadsa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sadsa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sadsa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sadsa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sadsa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sadsa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sadsa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sadsa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Sadsa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Sadsa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Aaaa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Aaaa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Aaaa",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Aaaa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Aaaa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Aaaa",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Aaaa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Aaaa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Aaaa",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Aaaa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Aaaa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Aaaa",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Aaaa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Aaaa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Aaaa",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Bbb",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Bbb",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Bbb",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Bbb",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Bbb",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Bbb",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Bbb",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Bbb",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Bbb",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Bbb",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Bbb",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Bbb",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Bbb",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadasa",
+    "resource": "Bbb",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dsadas",
+    "resource": "Bbb",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
